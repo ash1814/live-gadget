@@ -1,0 +1,24 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item {
+    padding: 20px 60px;
+
+}
+small{
+    color: rgb(197, 25, 25);
+    cursor: pointer;
+}
+
+.button-buy-now{
+    background-image: linear-gradient(to bottom, black 0%, grey 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+} 
+.card-footer{
+    background: white;
+    border: none;
+}
